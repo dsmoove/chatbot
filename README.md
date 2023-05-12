@@ -2,4 +2,4 @@
 Creating chatbots for fun!
 
 
-![chatbot](./images/chatbot.png)
+![chatbot](chatbot.png)
